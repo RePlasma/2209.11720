@@ -1,2 +1,7 @@
-# 2209.11720
-Towards critical and supercritical electromagnetic fields
+# Towards critical and supercritical electromagnetic fields
+
+Original authors of pre-print: M. Marklund, T. G. Blackburn, A. Gonoskov, J. Magnusson, S. S. Bulanov, A. Ilderton
+
+Link to pre-print: https://arxiv.org/abs/2209.11720
+
+Abstarct: _The availability of ever stronger, laser-generated electromagnetic fields underpins continuing progress in the study and application of nonlinear phenomena in basic physical systems, ranging from molecules and atoms to relativistic plasmas and quantum electrodynamics. This raises the question: how far will we be able to go with future lasers? One exciting prospect is the attainment of field strengths approaching the Schwinger critical field Ecr in the laboratory frame, such that the field invariant E2−c2B2>E2cr is reached. The feasibility of doing so has been questioned, on the basis that cascade generation of dense electron-positron plasma would inevitably lead to absorption or screening of the incident light. Here we discuss the potential for future lasers to overcome such obstacles, by combining the concept of multiple colliding laser pulses with that of frequency upshifting via a tailored laser-plasma interaction. This compresses the electromagnetic field energy into a region of nanometer size and attosecond duration, which increases the field magnitude at fixed power but also suppresses pair cascades. Our results indicate that 10-PW-class laser facilities could be capable of reaching Ecr. Such a scenario opens up prospects for experimental investigation of phenomena previously considered to occur only in the most extreme environments in the Universe._
